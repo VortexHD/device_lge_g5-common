@@ -2445,6 +2445,7 @@
     </path>
 
     <path name="voice-dmic-ef">
+	    <ctl name="DEC7 Volume" value="88" />
         <path name="dmic-endfire" />
     </path>
 
